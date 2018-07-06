@@ -20,3 +20,12 @@
   margin:20px;
   padding:5px;
 }
+
+.process p{
+  font-size: 14px;
+}
+
+.process h3 {
+  font-size: 23px;
+  font-weight:bold;
+}
