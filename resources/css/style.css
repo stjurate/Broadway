@@ -1,0 +1,22 @@
+*{
+  font-family: Helvetica;
+  text-align: center;
+}
+
+.home{
+  font-size: 70px;
+  font-weight: bold;
+  color: White;
+  background-image:url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  width: auto;
+  height: 296.86px;
+}
+
+.btn-nav{
+  display:block;
+  font-size: 18px;
+  color: White;
+  text-decoration: none;
+  margin:20px;
+  padding:5px;
+}
